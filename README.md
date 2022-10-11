@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rwth-acis/las2peer/master/img/logo/bitmap/las2peer-logo-128x128.png" />
 </p>
-<h1 align="center">las2peer-Template-Project</h1>
+<h1 align="center">las2peer-Template-Project2</h1>
 
 ![Java CI with Gradle](https://github.com/rwth-acis/las2peer-template-project/workflows/Java%20CI%20with%20Gradle/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/rwth-acis/las2peer-template-project/branch/master/graph/badge.svg)](https://codecov.io/gh/rwth-acis/las2peer-template-project)
